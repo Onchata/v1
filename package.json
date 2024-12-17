@@ -1,0 +1,17 @@
+{
+  "name": "@onchata/v1",
+  "version": "1.0.0",
+  "description": "Onchata smart contract utilities",
+  "main": "index.js",
+  "files": ["contracts"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "smart contracts",
+    "onchata"
+  ],
+  "author": "",
+  "license": "MIT"
+}
